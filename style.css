@@ -58,3 +58,20 @@ h2 {
     outline: 0;
     border: 1px solid black;
 }
+
+.games input + label:before {
+    content: '☐';
+    margin-right: 10px;
+}
+  
+.games input:checked + label:before {
+    content: '☑';
+}
+
+button {
+    cursor: pointer;
+}
+
+#submit {
+    cursor: pointer;
+}
