@@ -2,4 +2,4 @@
 Exercise in using browser local storage for checklist
 
 # Link
-https://swedishkinda.github.io/Browser-Local-Storage/
+https://swedishkinda.github.io/CheckAll/
