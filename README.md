@@ -1,4 +1,4 @@
-# Browser-Local-Storage
+# CheckAll
 Exercise in using browser local storage for checklist
 
 # Link
